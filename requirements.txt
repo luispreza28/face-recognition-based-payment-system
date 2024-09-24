@@ -1,0 +1,5 @@
+opencv-python~=4.10.0.84
+face_recognition
+Flask
+paypalrestsdk
+stripe~=10.12.0
