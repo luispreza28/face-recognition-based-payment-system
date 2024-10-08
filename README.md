@@ -15,7 +15,6 @@ This project is a face recognition-based payment system that allows users to mak
 
 To install the necessary dependencies, run:
 
-bash
 ```pip install -r requirements.txt```
 
 - opencv-python~=4.10.0.84: For capturing and processing webcam images.
@@ -57,21 +56,15 @@ Contains the main entry point of the application:
 ### Running the Application
 Clone the repository and navigate to the project directory:
 
-bash
-Copy code
 ```git clone https://github.com/yourusername/face-recognition-payment.git```
 ```cd face-recognition-payment```
 
 ## Install the required dependencies:
 
-bash
-Copy code
 ```pip install -r requirements.txt```
 
 ## Run the application:
 
-bash
-Copy code
 ```python main.py```
 
 ## Follow the on-screen prompts to register new users or make a payment.
